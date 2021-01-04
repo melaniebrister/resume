@@ -8,5 +8,6 @@ FYI: Ive descided to keep the red accent colour I think.
   - Pricing
   - FAQ
   - Fun Facts About My Work banner
+  - Skills and Education
 - add Mel-About-Me  photo to the 'A Little About Me' section
 - add uploaded: OTE Branding Guidelies jpg, OTE Anti Racism Action Plan jpg and OTE CMIP21 jpg to 'A selection of my work'
