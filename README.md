@@ -13,4 +13,4 @@ FYI: Ive descided to keep the red accent colour I think.
 - [x] add uploaded: OTE Branding Guidelies jpg, OTE Anti Racism Action Plan jpg and OTE CMIP21 jpg to 'A selection of my work'
 
 - [ ] fix testamonial cards
-- For some reason when you click on skills it doesn't jump to the skill section. Any insights here?
+- For some reason when you click on skills it doesn't jump to the skill section. Any insights?
