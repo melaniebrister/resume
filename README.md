@@ -14,3 +14,6 @@ FYI: Ive descided to keep the red accent colour I think.
 
 - [ ] fix testamonial cards
 - For some reason when you click on skills it doesn't jump to the skill section. Any insights?
+- in 'A little about me' remove the 3rd checkmark, age, freelance.
+- in 'What People are Saying' remove the Linked In and Upwork text and stars
+- remove the end text that says 'Like what you see...?'
