@@ -20,3 +20,4 @@ FYI: Ive descided to keep the red accent colour I think.
 - Add YouTube video to link: https://www.youtube.com/watch?v=mncVB0cc_90&feature=youtu.be
 - Anyway to make the 'Watch Profile Video' and the Play Icon bigger? I really want to encourage people to watch this.
 - remove get in touch button
+- update profile sample photo that include title and one liner.
