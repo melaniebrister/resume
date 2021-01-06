@@ -13,11 +13,12 @@ FYI: Ive descided to keep the red accent colour I think.
 - [x] add uploaded: OTE Branding Guidelies jpg, OTE Anti Racism Action Plan jpg and OTE CMIP21 jpg to 'A selection of my work'
 
 - [ ] fix testamonial cards
-- For some reason when you click on skills it doesn't jump to the skill section. Any insights?
-- in 'A little about me' remove the 3rd checkmark, age, freelance.
-- remove 'What People are Saying' 
-- remove the end text that says 'Like what you see...?'
-- Add YouTube video to link: https://www.youtube.com/watch?v=mncVB0cc_90&feature=youtu.be
-- Anyway to make the 'Watch Profile Video' and the Play Icon bigger? I really want to encourage people to watch this.
-- remove get in touch button
-- update profile sample photo that include title and one liner.
+
+- [x] For some reason when you click on skills it doesn't jump to the skill section. Any insights?
+- [x] in 'A little about me' remove the 3rd checkmark, age, freelance.
+- [x] remove 'What People are Saying' 
+- [x] remove the end text that says 'Like what you see...?'
+- [x] Add YouTube video to link: https://www.youtube.com/watch?v=mncVB0cc_90&feature=youtu.be
+- [ ] Anyway to make the 'Watch Profile Video' and the Play Icon bigger? I really want to encourage people to watch this.
+- [x] remove get in touch button
+- [ ] update profile sample photo that include title and one liner.
