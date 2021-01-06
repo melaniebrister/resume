@@ -776,8 +776,8 @@ span.template-name{
 
 .video-icon {
 	float: left;
-	width: 60px;
-	height: 60px;
+	width: 120px;
+	height: 120px;
 	background: #fff;
 	border:2px solid #fff;
 	border-radius: 50% 50%;
@@ -788,14 +788,14 @@ span.template-name{
 
 .video-icon:before {
     content: '';
-    width: 60px;
-    height: 60px;
+    width: 120px;
+    height: 120px;
     position: absolute;
     border: 1px solid #fff;
     border-radius: 100%;
-    left: 50%;
+    left: 25%;
     margin-left: -30px;
-    bottom: 10%;
+    bottom: 4%;
     margin-bottom: -6px;
     -webkit-animation: doublePulsation 1.9s ease infinite;
     animation: doublePulsation 1.9s ease infinite;
@@ -819,10 +819,12 @@ span.template-name{
 }
 
 .video-icon i {
-	font-size: 26px;
-	line-height: 56px;
+	/* font-size: 26px;
+	line-height: 56px; */
+	font-size: 52px;
+	line-height: 112px;
 	color:#e52a3d;
-	margin-left: 18px;
+	margin-left: 38px;
 	transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
 }
@@ -833,9 +835,9 @@ span.template-name{
 
 .popup-video-text{
 	float: left;
-	padding-top: 15px;
-	padding-left: 20px;
-	font-size: 18px;
+	padding-top: 30px;
+	padding-left: 25px;
+	font-size: 28px;
 	line-height: 28px;
 	color: #fff;
 	text-decoration: underline;
@@ -1560,7 +1562,16 @@ ul.benefits.white li i {
 /* ========================================================== */
 
 @media (max-width: 991px) {
-
+  .popup-video-text {
+    float: left;
+    padding-top: 26px;
+    padding-left: 0; 
+    font-size: 28px;
+    line-height: 28px;
+    color: #fff;
+    text-decoration: underline;
+    text-shadow: 1px 1px #656565;
+  }
 	.navbar-fixed-top.opaque {
 	    padding: 0;
 	}
@@ -1588,7 +1599,9 @@ ul.benefits.white li i {
 }
 
 @media (max-width: 768px) {
-
+  .popup-video-text {
+     padding-left: 10px;
+  }
 	.navbar-fixed-top {
 	    background-color: rgba(0, 0, 0, 0.65)!important;
 	}
